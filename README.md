@@ -36,6 +36,10 @@ To meet the task requirement of result visualization, graphs showing training ac
 
 This task is highly applicable to real-world scenarios such as medical image analysis, face recognition, object detection, and autonomous systems. Completing this task enhanced practical knowledge of deep learning workflows, model evaluation, and result interpretation. Overall, this project demonstrates the ability to build, train, and analyze a deep learning model using industry-relevant tools and practices.
 
+OUTPUT :
+
+<img width="609" height="487" alt="Image" src="https://github.com/user-attachments/assets/732d8dce-a2bc-4df8-8daa-c760ad63771b" />
+
 Tools and Technologies Used
 
 Python
