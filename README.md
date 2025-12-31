@@ -35,3 +35,11 @@ During training, the model was compiled using an appropriate optimizer and loss 
 To meet the task requirement of result visualization, graphs showing training accuracy, validation accuracy, training loss, and validation loss were generated using Matplotlib. These visualizations provide insight into how well the model learned over time and help identify issues such as underfitting or overfitting. Visual outputs are an essential part of deep learning projects, as they make model performance easier to understand and interpret.
 
 This task is highly applicable to real-world scenarios such as medical image analysis, face recognition, object detection, and autonomous systems. Completing this task enhanced practical knowledge of deep learning workflows, model evaluation, and result interpretation. Overall, this project demonstrates the ability to build, train, and analyze a deep learning model using industry-relevant tools and practices.
+
+Tools and Technologies Used
+
+Python
+TensorFlow / Keras
+NumPy
+Matplotlib
+Google Colab / Jupyter Notebook
